@@ -10,6 +10,10 @@
     --neutral-900: #1f1f1f;
     --neutral-999: #000;
   }
+
+  body {
+    background-color: var(--neutral-999);
+  }
 }
 
 @layer components {
